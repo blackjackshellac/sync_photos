@@ -1,0 +1,8 @@
+{
+	"configs": {
+		"steeve": {
+			"src":"/run/media/steeve/3B69-1AFD/",
+			"dst":"/data/photos/steeve/"
+		}
+	}
+}
