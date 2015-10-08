@@ -1,5 +1,6 @@
 # sync_photos
 
+```
 sync_photos.rb [options]
     -c, --config NAME                Config name, one of [steeve]
     -s, --src DIR                    Source directory, default /run/media/steeve
@@ -23,3 +24,4 @@ Environment variables:
 
 	SYNC_PHOTOS  - destination directory for photo sync (not set)
 
+```
